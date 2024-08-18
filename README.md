@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/f5a7ab22-b554-485f-bb51-61e1168e96e9)
+
+
 # multi_agent_demo1
 家装小能手——用多模态模型把大师的画装饰客厅
 报告日期：2024年8月18日  
@@ -88,13 +91,15 @@ pip install gradio
 
 3.2. 代码实现： 
 
-![alt text](image-1.png)
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/0b77306d-6289-4147-9c64-958b6f161a50)
 
+![image](https://github.com/user-attachments/assets/c6ec5624-b064-4e6d-993a-c2bdd18f9341)
 
+![image](https://github.com/user-attachments/assets/ebb5484e-ef21-407c-8582-66a774010665)
 
 #### 四、项目成果与展示：
 
+![image](https://github.com/user-attachments/assets/13cd6e57-469c-448a-8654-65842a2f17d3)
 
 
 #### 五、问题与解决方案：
