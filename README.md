@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/f5a7ab22-b554-485f-bb51-61e1168e96e9)
 
 
-# multi_agent_demo1
+# Multi_agent_demo1
 家装小能手——用多模态模型把大师的画装饰客厅   
 报告日期：2024年8月18日  
 项目负责人：Rey Cui   
